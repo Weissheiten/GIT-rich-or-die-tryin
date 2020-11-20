@@ -1,0 +1,29 @@
+There are some version control systems
+But one is forever 
+I´am talking about git
+So everybody listen to this
+
+You want to create a repository
+Enter git init in your command line
+Adding files to it goes easy
+Git add makes that
+
+Git is forever
+All the other VCS listen up
+Learn from git
+Cause git is the best VCS
+
+Make a snapshot of your repository
+The command for it is git commit
+For the latest version of the repository
+It only need git pull
+
+Get content from your local repository
+Into your remote repository
+The magic command is easy
+Git push and it is done
+
+Git is forever
+All the other VCS listen up
+Learn from git
+Cause git is the best VCS
