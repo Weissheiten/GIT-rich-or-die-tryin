@@ -1,0 +1,29 @@
+If you ever need a version control system
+Just use git
+It provides you with everything you need
+Just use git
+
+To create a repository
+Start your jounrey with git init
+For adding your files to it
+Use git add, what a slap
+
+If you want to make a snapshot of your repository
+Just go for it, with git commit
+Make commits regulary
+Than better save often and early
+
+To upload content from your local repository
+Into your remote repository
+You only need on little command
+Git push, for the win
+
+To get the latest version of the repository
+Just use git pull
+For versioning in your repository
+Start it with git tag
+
+The best VCS is git
+We all just love it
+So one last advice in the end
+Use git!
