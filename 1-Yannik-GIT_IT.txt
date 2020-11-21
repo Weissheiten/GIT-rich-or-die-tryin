@@ -1,0 +1,35 @@
+
+Writing lots of code
+Storing data in files
+Making copies of those
+Doesn't give a lot of smiles
+
+Every version is different
+Your team can't collaborate
+Not very pleaseant
+And slow development rate
+
+Thus GIT the VCS comes along
+Versions all of your files
+Setup doesn't take too long
+And saves lots of time
+
+Create a new repository
+Using git init
+Don't worry
+Next comes your first commit
+
+With git add *
+You can add all your files
+However don't forget
+.gitignore holds all of the exiled
+
+Now you can git commit
+Add a message to it
+git push off to the remote
+And hope there are no merge conflicts abroad
+
+With git pull
+Get your version up to date
+Your own progress can be different with git branch
+And later git merge is never too late
