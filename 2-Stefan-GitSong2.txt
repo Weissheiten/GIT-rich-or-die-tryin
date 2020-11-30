@@ -1,0 +1,9 @@
+Make a snapshot of your repository
+The command for it is git commit
+For the latest version of the repository
+It only need git pull
+
+Get content from your local repository
+Into your remote repository
+The magic command is easy
+Git push and it is done
